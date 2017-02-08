@@ -1,3 +1,4 @@
+cloudbees-folder:5.17
 openshift-pipeline:1.0.42
 openshift-login:0.11
 
@@ -26,7 +27,8 @@ workflow-step-api:2.8
 workflow-support:2.12
 
 # Pipeline Multibranch Plugin - https://wiki.jenkins-ci.org/display/JENKINS/Pipeline+Multibranch+Plugin
-workflow-multibranch:2.9.2
+workflow-multibranch:2.12
+branch-api:2.0.2
 cloudbees-folder:5.13
 
 # Pipeline stage view plugin - https://wiki.jenkins-ci.org/display/JENKINS/Pipeline+Stage+View+Plugin
@@ -66,4 +68,4 @@ ace-editor:1.1
 
 # Jenkins v2 specific
 matrix-auth:1.4
-blueocean:1.0.0-b21
+blueocean:1.0.0-b22
