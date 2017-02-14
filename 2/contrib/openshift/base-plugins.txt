@@ -1,7 +1,5 @@
 openshift-pipeline:1.0.42
 openshift-login:0.11
-groovy:2.25
-
 
 # kubernetes plugin - https://wiki.jenkins-ci.org/display/JENKINS/Kubernetes+Plugin
 durable-task:1.13
